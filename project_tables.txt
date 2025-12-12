@@ -1,0 +1,33 @@
+1.users
+    users_acno integer primary key autoincrement
+    users_pass text
+    users_name text
+    users_mob  text
+    users_email text
+    users_bal   float
+    users_adhar text 
+    users_opendate text
+    
+2.txn
+    txn_id integer primary key autoincrement
+    txn_acno integer
+    txn_type text
+    txn_date text
+    txn_amt  float
+    txn_updatebal float
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

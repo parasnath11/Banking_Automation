@@ -1,0 +1,2 @@
+first create app passowrd using gamil
+install pillow,tkintertable,gmail 3rd party libs
